@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生｜资产入库与血缘"
+  short_description: "为脚本、分镜和模型产物建立可检索资产卡、生成血缘与复用权限"
+  default_prompt: "使用 $yunsheng-asset-registry 为这些交付物建立资产卡、版本血缘和复用边界。"
