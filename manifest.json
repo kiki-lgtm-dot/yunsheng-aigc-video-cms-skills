@@ -1,0 +1,29 @@
+{
+  "name": "yunsheng-aigc-video-cms-skills",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "created_at": "2026-09-13",
+  "language": "zh-CN",
+  "runtime_dependencies": [],
+  "development_dependencies": ["Python >= 3.10 for evals/validate_pack.py"],
+  "upstream_runtime_dependencies": [],
+  "usage": {
+    "codex": "install each directory under skills",
+    "single_file": "SKILL.md can be imported without UI metadata",
+    "external_system_writes": "not included"
+  },
+  "skills": [
+    "yunsheng-demand-gate",
+    "yunsheng-creative-brief",
+    "yunsheng-brief-review",
+    "yunsheng-change-control",
+    "yunsheng-production-orchestrator",
+    "yunsheng-model-decision",
+    "yunsheng-cost-ledger",
+    "yunsheng-acceptance",
+    "yunsheng-asset-registry",
+    "yunsheng-roi-review",
+    "yunsheng-product-review",
+    "yunsheng-roadmap"
+  ]
+}
