@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生｜质检与验收"
+  short_description: "区分内部质检与需求方正式验收，记录版本、问题、返工与确认"
+  default_prompt: "使用 $yunsheng-acceptance 检查这个交付版本，并生成等待需求方确认的验收候选。"
