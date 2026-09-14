@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生｜产品路线图"
+  short_description: "把已验证问题转成有指标、依赖、停止条件与决策门的产品路线图"
+  default_prompt: "使用 $yunsheng-roadmap 根据这些已验证问题、容量和依赖制定 Now/Next/Later 路线图。"
