@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生 Brief 审核"
+  short_description: "记录 Brief 审核结论、修改轮次、责任人与批准基线"
+  default_prompt: "使用 $yunsheng-brief-review 整理本轮反馈，生成可追溯的 Approved 或 Needs Changes 记录。"
