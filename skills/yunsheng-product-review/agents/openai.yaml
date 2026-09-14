@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生｜产品判断"
+  short_description: "用交付证据判断环节应自动化、模板化、保留人工或停止投入"
+  default_prompt: "使用 $yunsheng-product-review 判断这个环节该自动化、模板化、保留人工还是停止投入。"
