@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生需求闸机"
+  short_description: "把群聊等零散输入收口为有证据的视频需求卡，并判定能否进入 Brief"
+  default_prompt: "使用 $yunsheng-demand-gate 将这批零散消息整理为可追溯的需求卡，并列出进入 Brief 前必须确认的问题。"
