@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生生产编排"
+  short_description: "把获批 Brief 编排为可追踪的视频生产任务与审核门禁"
+  default_prompt: "使用 $yunsheng-production-orchestrator 将这份 Approved Brief 拆成项目阶段、任务依赖、人工门禁和 CMS 状态。"
