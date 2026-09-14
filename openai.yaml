@@ -1,4 +1,0 @@
-interface:
-  display_name: "云生变更管理"
-  short_description: "管理 Approved 后的需求变更、版本差异及工时、成本和交期影响"
-  default_prompt: "使用 $yunsheng-change-control 对这次项目变更生成版本差异、影响评估和待人工批准的变更单。"
