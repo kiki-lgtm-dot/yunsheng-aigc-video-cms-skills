@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生创意 Brief"
+  short_description: "基于已确认需求生成可审核、可制作的 AIGC 视频 Brief"
+  default_prompt: "使用 $yunsheng-creative-brief 把这张已确认需求卡转换为可审核、可制作和可验收的 AIGC 视频 Brief。"
