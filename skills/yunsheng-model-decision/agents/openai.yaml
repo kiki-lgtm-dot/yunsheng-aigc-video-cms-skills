@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生模型选型"
+  short_description: "基于实测质量、成本和风险选择镜头级 AIGC 模型方案"
+  default_prompt: "使用 $yunsheng-model-decision 基于当前镜头要求和可核验证据，设计模型 POC、主备路由与人工确认点。"
