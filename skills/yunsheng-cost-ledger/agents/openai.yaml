@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生｜工时与算力台账"
+  short_description: "按来源和口径核算项目工时、协作投入、人数及模型算力成本"
+  default_prompt: "使用 $yunsheng-cost-ledger 按来源、周期和口径核算这批云生项目成本，并列出缺失证据。"
