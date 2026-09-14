@@ -1,0 +1,4 @@
+interface:
+  display_name: "云生｜ROI 与提效复盘"
+  short_description: "按同口径核算降本提效、证据覆盖并生成脱敏履历结论候选"
+  default_prompt: "使用 $yunsheng-roi-review 复盘这批项目的交付、成本与提效，严格区分事实、推算和外部基准。"
